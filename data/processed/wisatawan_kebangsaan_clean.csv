@@ -1,0 +1,199 @@
+benua,level,negara_raw,negara_id,negara_en,tahun,jumlah_wisman,status_data,negara_std
+ASEAN,subtotal_benua,ASEAN,ASEAN,ASEAN,2019,613509.0,tersedia,ASEAN
+ASEAN,subtotal_benua,ASEAN,ASEAN,ASEAN,2020,100967.0,tersedia,ASEAN
+ASEAN,subtotal_benua,ASEAN,ASEAN,ASEAN,2021,,tidak_tersedia ('-' di sumber),ASEAN
+ASEAN,subtotal_benua,ASEAN,ASEAN,ASEAN,2022,337769.0,tersedia,ASEAN
+ASEAN,subtotal_benua,ASEAN,ASEAN,ASEAN,2023,699924.0,tersedia,ASEAN
+ASEAN,subtotal_benua,ASEAN,ASEAN,ASEAN,2024,713315.0,tersedia,ASEAN
+ASEAN,negara,Malaysia / Malaysia,Malaysia,Malaysia,2019,185256.0,tersedia,Malaysia
+ASEAN,negara,Malaysia / Malaysia,Malaysia,Malaysia,2020,31587.0,tersedia,Malaysia
+ASEAN,negara,Malaysia / Malaysia,Malaysia,Malaysia,2021,,tidak_tersedia ('-' di sumber),Malaysia
+ASEAN,negara,Malaysia / Malaysia,Malaysia,Malaysia,2022,91064.0,tersedia,Malaysia
+ASEAN,negara,Malaysia / Malaysia,Malaysia,Malaysia,2023,207573.0,tersedia,Malaysia
+ASEAN,negara,Malaysia / Malaysia,Malaysia,Malaysia,2024,246145.0,tersedia,Malaysia
+ASEAN,negara,Philipina / Philippines,Philipina,Philippines,2019,106875.0,tersedia,Filipina
+ASEAN,negara,Philipina / Philippines,Philipina,Philippines,2020,16642.0,tersedia,Filipina
+ASEAN,negara,Philipina / Philippines,Philipina,Philippines,2021,,tidak_tersedia ('-' di sumber),Filipina
+ASEAN,negara,Philipina / Philippines,Philipina,Philippines,2022,30427.0,tersedia,Filipina
+ASEAN,negara,Philipina / Philippines,Philipina,Philippines,2023,85866.0,tersedia,Filipina
+ASEAN,negara,Philipina / Philippines,Philipina,Philippines,2024,103665.0,tersedia,Filipina
+ASEAN,negara,Singapura / Singapore,Singapura,Singapore,2019,163327.0,tersedia,Singapura
+ASEAN,negara,Singapura / Singapore,Singapura,Singapore,2020,23463.0,tersedia,Singapura
+ASEAN,negara,Singapura / Singapore,Singapura,Singapore,2021,,tidak_tersedia ('-' di sumber),Singapura
+ASEAN,negara,Singapura / Singapore,Singapura,Singapore,2022,129089.0,tersedia,Singapura
+ASEAN,negara,Singapura / Singapore,Singapura,Singapore,2023,236203.0,tersedia,Singapura
+ASEAN,negara,Singapura / Singapore,Singapura,Singapore,2024,218926.0,tersedia,Singapura
+ASEAN,negara,Thailand / Thailand,Thailand,Thailand,2019,61089.0,tersedia,Thailand
+ASEAN,negara,Thailand / Thailand,Thailand,Thailand,2020,7208.0,tersedia,Thailand
+ASEAN,negara,Thailand / Thailand,Thailand,Thailand,2021,,tidak_tersedia ('-' di sumber),Thailand
+ASEAN,negara,Thailand / Thailand,Thailand,Thailand,2022,19025.0,tersedia,Thailand
+ASEAN,negara,Thailand / Thailand,Thailand,Thailand,2023,41438.0,tersedia,Thailand
+ASEAN,negara,Thailand / Thailand,Thailand,Thailand,2024,37354.0,tersedia,Thailand
+ASEAN,negara,Asean lainnya / Other Asean,Asean lainnya,Other Asean,2019,96962.0,tersedia,ASEAN lainnya
+ASEAN,negara,Asean lainnya / Other Asean,Asean lainnya,Other Asean,2020,22067.0,tersedia,ASEAN lainnya
+ASEAN,negara,Asean lainnya / Other Asean,Asean lainnya,Other Asean,2021,,tidak_tersedia ('-' di sumber),ASEAN lainnya
+ASEAN,negara,Asean lainnya / Other Asean,Asean lainnya,Other Asean,2022,68164.0,tersedia,ASEAN lainnya
+ASEAN,negara,Asean lainnya / Other Asean,Asean lainnya,Other Asean,2023,128844.0,tersedia,ASEAN lainnya
+ASEAN,negara,Asean lainnya / Other Asean,Asean lainnya,Other Asean,2024,107225.0,tersedia,ASEAN lainnya
+Asia (non-ASEAN),subtotal_benua,ASIA (Tanpa Asean / Non Asean),ASIA (Tanpa Asean,Non Asean),2019,2321161.0,tersedia,ASIA (Tanpa Asean
+Asia (non-ASEAN),subtotal_benua,ASIA (Tanpa Asean / Non Asean),ASIA (Tanpa Asean,Non Asean),2020,334247.0,tersedia,ASIA (Tanpa Asean
+Asia (non-ASEAN),subtotal_benua,ASIA (Tanpa Asean / Non Asean),ASIA (Tanpa Asean,Non Asean),2021,,tidak_tersedia ('-' di sumber),ASIA (Tanpa Asean
+Asia (non-ASEAN),subtotal_benua,ASIA (Tanpa Asean / Non Asean),ASIA (Tanpa Asean,Non Asean),2022,353456.0,tersedia,ASIA (Tanpa Asean
+Asia (non-ASEAN),subtotal_benua,ASIA (Tanpa Asean / Non Asean),ASIA (Tanpa Asean,Non Asean),2023,1270111.0,tersedia,ASIA (Tanpa Asean
+Asia (non-ASEAN),subtotal_benua,ASIA (Tanpa Asean / Non Asean),ASIA (Tanpa Asean,Non Asean),2024,1789472.0,tersedia,ASIA (Tanpa Asean
+Asia (non-ASEAN),negara,Arab Saudi / Saudi Arabia,Arab Saudi,Saudi Arabia,2019,15147.0,tersedia,Arab Saudi
+Asia (non-ASEAN),negara,Arab Saudi / Saudi Arabia,Arab Saudi,Saudi Arabia,2020,5234.0,tersedia,Arab Saudi
+Asia (non-ASEAN),negara,Arab Saudi / Saudi Arabia,Arab Saudi,Saudi Arabia,2021,,tidak_tersedia ('-' di sumber),Arab Saudi
+Asia (non-ASEAN),negara,Arab Saudi / Saudi Arabia,Arab Saudi,Saudi Arabia,2022,4460.0,tersedia,Arab Saudi
+Asia (non-ASEAN),negara,Arab Saudi / Saudi Arabia,Arab Saudi,Saudi Arabia,2023,11024.0,tersedia,Arab Saudi
+Asia (non-ASEAN),negara,Arab Saudi / Saudi Arabia,Arab Saudi,Saudi Arabia,2024,14595.0,tersedia,Arab Saudi
+Asia (non-ASEAN),negara,India / India,India,India,2019,374043.0,tersedia,India
+Asia (non-ASEAN),negara,India / India,India,India,2020,68199.0,tersedia,India
+Asia (non-ASEAN),negara,India / India,India,India,2021,,tidak_tersedia ('-' di sumber),India
+Asia (non-ASEAN),negara,India / India,India,India,2022,182091.0,tersedia,India
+Asia (non-ASEAN),negara,India / India,India,India,2023,,tidak_tersedia ('-' di sumber),India
+Asia (non-ASEAN),negara,India / India,India,India,2024,550379.0,tersedia,India
+Asia (non-ASEAN),negara,Jepang / Japan,Jepang,Japan,2019,257959.0,tersedia,Jepang
+Asia (non-ASEAN),negara,Jepang / Japan,Jepang,Japan,2020,48800.0,tersedia,Jepang
+Asia (non-ASEAN),negara,Jepang / Japan,Jepang,Japan,2021,,tidak_tersedia ('-' di sumber),Jepang
+Asia (non-ASEAN),negara,Jepang / Japan,Jepang,Japan,2022,19366.0,tersedia,Jepang
+Asia (non-ASEAN),negara,Jepang / Japan,Jepang,Japan,2023,116232.0,tersedia,Jepang
+Asia (non-ASEAN),negara,Jepang / Japan,Jepang,Japan,2024,176856.0,tersedia,Jepang
+Asia (non-ASEAN),negara,Korea Selatan / South Korea,Korea Selatan,South Korea,2019,213356.0,tersedia,Korea Selatan
+Asia (non-ASEAN),negara,Korea Selatan / South Korea,Korea Selatan,South Korea,2020,42856.0,tersedia,Korea Selatan
+Asia (non-ASEAN),negara,Korea Selatan / South Korea,Korea Selatan,South Korea,2021,,tidak_tersedia ('-' di sumber),Korea Selatan
+Asia (non-ASEAN),negara,Korea Selatan / South Korea,Korea Selatan,South Korea,2022,63353.0,tersedia,Korea Selatan
+Asia (non-ASEAN),negara,Korea Selatan / South Korea,Korea Selatan,South Korea,2023,226789.0,tersedia,Korea Selatan
+Asia (non-ASEAN),negara,Korea Selatan / South Korea,Korea Selatan,South Korea,2024,294024.0,tersedia,Korea Selatan
+Asia (non-ASEAN),negara,RRC / China,RRC,China,2019,1186057.0,tersedia,Tiongkok (RRC)
+Asia (non-ASEAN),negara,RRC / China,RRC,China,2020,118617.0,tersedia,Tiongkok (RRC)
+Asia (non-ASEAN),negara,RRC / China,RRC,China,2021,,tidak_tersedia ('-' di sumber),Tiongkok (RRC)
+Asia (non-ASEAN),negara,RRC / China,RRC,China,2022,33085.0,tersedia,Tiongkok (RRC)
+Asia (non-ASEAN),negara,RRC / China,RRC,China,2023,280111.0,tersedia,Tiongkok (RRC)
+Asia (non-ASEAN),negara,RRC / China,RRC,China,2024,448446.0,tersedia,Tiongkok (RRC)
+Asia (non-ASEAN),negara,Asia lainnya / Other Asia,Asia lainnya,Other Asia,2019,285144.0,tersedia,Asia lainnya
+Asia (non-ASEAN),negara,Asia lainnya / Other Asia,Asia lainnya,Other Asia,2020,55775.0,tersedia,Asia lainnya
+Asia (non-ASEAN),negara,Asia lainnya / Other Asia,Asia lainnya,Other Asia,2021,,tidak_tersedia ('-' di sumber),Asia lainnya
+Asia (non-ASEAN),negara,Asia lainnya / Other Asia,Asia lainnya,Other Asia,2022,55555.0,tersedia,Asia lainnya
+Asia (non-ASEAN),negara,Asia lainnya / Other Asia,Asia lainnya,Other Asia,2023,206564.0,tersedia,Asia lainnya
+Asia (non-ASEAN),negara,Asia lainnya / Other Asia,Asia lainnya,Other Asia,2024,305172.0,tersedia,Asia lainnya
+Amerika,subtotal_benua,AMERIKA,AMERIKA,AMERIKA,2019,415435.0,tersedia,AMERIKA
+Amerika,subtotal_benua,AMERIKA,AMERIKA,AMERIKA,2020,79010.0,tersedia,AMERIKA
+Amerika,subtotal_benua,AMERIKA,AMERIKA,AMERIKA,2021,,tidak_tersedia ('-' di sumber),AMERIKA
+Amerika,subtotal_benua,AMERIKA,AMERIKA,AMERIKA,2022,156313.0,tersedia,AMERIKA
+Amerika,subtotal_benua,AMERIKA,AMERIKA,AMERIKA,2023,379472.0,tersedia,AMERIKA
+Amerika,subtotal_benua,AMERIKA,AMERIKA,AMERIKA,2024,403312.0,tersedia,AMERIKA
+Amerika,negara,Amerika Serikat / USA,Amerika Serikat,USA,2019,276859.0,tersedia,Amerika Serikat
+Amerika,negara,Amerika Serikat / USA,Amerika Serikat,USA,2020,47996.0,tersedia,Amerika Serikat
+Amerika,negara,Amerika Serikat / USA,Amerika Serikat,USA,2021,,tidak_tersedia ('-' di sumber),Amerika Serikat
+Amerika,negara,Amerika Serikat / USA,Amerika Serikat,USA,2022,108131.0,tersedia,Amerika Serikat
+Amerika,negara,Amerika Serikat / USA,Amerika Serikat,USA,2023,248983.0,tersedia,Amerika Serikat
+Amerika,negara,Amerika Serikat / USA,Amerika Serikat,USA,2024,261832.0,tersedia,Amerika Serikat
+Amerika,negara,Kanada / Canada,Kanada,Canada,2019,73690.0,tersedia,Kanada
+Amerika,negara,Kanada / Canada,Kanada,Canada,2020,16706.0,tersedia,Kanada
+Amerika,negara,Kanada / Canada,Kanada,Canada,2021,,tidak_tersedia ('-' di sumber),Kanada
+Amerika,negara,Kanada / Canada,Kanada,Canada,2022,24330.0,tersedia,Kanada
+Amerika,negara,Kanada / Canada,Kanada,Canada,2023,59425.0,tersedia,Kanada
+Amerika,negara,Kanada / Canada,Kanada,Canada,2024,61959.0,tersedia,Kanada
+Amerika,negara,Amerika Lainnya / Other America,Amerika Lainnya,Other America,2019,64886.0,tersedia,Amerika lainnya
+Amerika,negara,Amerika Lainnya / Other America,Amerika Lainnya,Other America,2020,14308.0,tersedia,Amerika lainnya
+Amerika,negara,Amerika Lainnya / Other America,Amerika Lainnya,Other America,2021,,tidak_tersedia ('-' di sumber),Amerika lainnya
+Amerika,negara,Amerika Lainnya / Other America,Amerika Lainnya,Other America,2022,23852.0,tersedia,Amerika lainnya
+Amerika,negara,Amerika Lainnya / Other America,Amerika Lainnya,Other America,2023,71064.0,tersedia,Amerika lainnya
+Amerika,negara,Amerika Lainnya / Other America,Amerika Lainnya,Other America,2024,79521.0,tersedia,Amerika lainnya
+Eropa,subtotal_benua,EROPA,EROPA,EROPA,2019,1480907.0,tersedia,EROPA
+Eropa,subtotal_benua,EROPA,EROPA,EROPA,2020,300264.0,tersedia,EROPA
+Eropa,subtotal_benua,EROPA,EROPA,EROPA,2021,,tidak_tersedia ('-' di sumber),EROPA
+Eropa,subtotal_benua,EROPA,EROPA,EROPA,2022,645617.0,tersedia,EROPA
+Eropa,subtotal_benua,EROPA,EROPA,EROPA,2023,1440736.0,tersedia,EROPA
+Eropa,subtotal_benua,EROPA,EROPA,EROPA,2024,1668849.0,tersedia,EROPA
+Eropa,negara,Perancis / France,Perancis,France,2019,206941.0,tersedia,Perancis
+Eropa,negara,Perancis / France,Perancis,France,2020,29786.0,tersedia,Perancis
+Eropa,negara,Perancis / France,Perancis,France,2021,,tidak_tersedia ('-' di sumber),Perancis
+Eropa,negara,Perancis / France,Perancis,France,2022,95510.0,tersedia,Perancis
+Eropa,negara,Perancis / France,Perancis,France,2023,208253.0,tersedia,Perancis
+Eropa,negara,Perancis / France,Perancis,France,2024,257495.0,tersedia,Perancis
+Eropa,negara,Jerman / Germany,Jerman,Germany,2019,196774.0,tersedia,Jerman
+Eropa,negara,Jerman / Germany,Jerman,Germany,2020,29557.0,tersedia,Jerman
+Eropa,negara,Jerman / Germany,Jerman,Germany,2021,,tidak_tersedia ('-' di sumber),Jerman
+Eropa,negara,Jerman / Germany,Jerman,Germany,2022,94516.0,tersedia,Jerman
+Eropa,negara,Jerman / Germany,Jerman,Germany,2023,195727.0,tersedia,Jerman
+Eropa,negara,Jerman / Germany,Jerman,Germany,2024,204640.0,tersedia,Jerman
+Eropa,negara,Belanda / Holland,Belanda,Holland,2019,116330.0,tersedia,Belanda
+Eropa,negara,Belanda / Holland,Belanda,Holland,2020,22474.0,tersedia,Belanda
+Eropa,negara,Belanda / Holland,Belanda,Holland,2021,,tidak_tersedia ('-' di sumber),Belanda
+Eropa,negara,Belanda / Holland,Belanda,Holland,2022,55730.0,tersedia,Belanda
+Eropa,negara,Belanda / Holland,Belanda,Holland,2023,121386.0,tersedia,Belanda
+Eropa,negara,Belanda / Holland,Belanda,Holland,2024,138099.0,tersedia,Belanda
+Eropa,negara,Inggris / United Kingdom,Inggris,United Kingdom,2019,287201.0,tersedia,Inggris
+Eropa,negara,Inggris / United Kingdom,Inggris,United Kingdom,2020,47680.0,tersedia,Inggris
+Eropa,negara,Inggris / United Kingdom,Inggris,United Kingdom,2021,,tidak_tersedia ('-' di sumber),Inggris
+Eropa,negara,Inggris / United Kingdom,Inggris,United Kingdom,2022,126892.0,tersedia,Inggris
+Eropa,negara,Inggris / United Kingdom,Inggris,United Kingdom,2023,256359.0,tersedia,Inggris
+Eropa,negara,Inggris / United Kingdom,Inggris,United Kingdom,2024,295326.0,tersedia,Inggris
+Eropa,negara,Rusia / Russia,Rusia,Russia,2019,143211.0,tersedia,Rusia
+Eropa,negara,Rusia / Russia,Rusia,Russia,2020,57817.0,tersedia,Rusia
+Eropa,negara,Rusia / Russia,Rusia,Russia,2021,,tidak_tersedia ('-' di sumber),Rusia
+Eropa,negara,Rusia / Russia,Rusia,Russia,2022,57860.0,tersedia,Rusia
+Eropa,negara,Rusia / Russia,Rusia,Russia,2023,144104.0,tersedia,Rusia
+Eropa,negara,Rusia / Russia,Rusia,Russia,2024,162097.0,tersedia,Rusia
+Eropa,negara,Eropa Lainnya / Other Europe,Eropa Lainnya,Other Europe,2019,530450.0,tersedia,Eropa lainnya
+Eropa,negara,Eropa Lainnya / Other Europe,Eropa Lainnya,Other Europe,2020,112950.0,tersedia,Eropa lainnya
+Eropa,negara,Eropa Lainnya / Other Europe,Eropa Lainnya,Other Europe,2021,,tidak_tersedia ('-' di sumber),Eropa lainnya
+Eropa,negara,Eropa Lainnya / Other Europe,Eropa Lainnya,Other Europe,2022,215109.0,tersedia,Eropa lainnya
+Eropa,negara,Eropa Lainnya / Other Europe,Eropa Lainnya,Other Europe,2023,514907.0,tersedia,Eropa lainnya
+Eropa,negara,Eropa Lainnya / Other Europe,Eropa Lainnya,Other Europe,2024,611192.0,tersedia,Eropa lainnya
+Oseania,subtotal_benua,OSEANIA,OSEANIA,OSEANIA,2019,1375399.0,tersedia,OSEANIA
+Oseania,subtotal_benua,OSEANIA,OSEANIA,OSEANIA,2020,244227.0,tersedia,OSEANIA
+Oseania,subtotal_benua,OSEANIA,OSEANIA,OSEANIA,2021,,tidak_tersedia ('-' di sumber),OSEANIA
+Oseania,subtotal_benua,OSEANIA,OSEANIA,OSEANIA,2022,645125.0,tersedia,OSEANIA
+Oseania,subtotal_benua,OSEANIA,OSEANIA,OSEANIA,2023,1430752.0,tersedia,OSEANIA
+Oseania,subtotal_benua,OSEANIA,OSEANIA,OSEANIA,2024,1691351.0,tersedia,OSEANIA
+Oseania,negara,Australia / Australia,Australia,Australia,2019,1241128.0,tersedia,Australia
+Oseania,negara,Australia / Australia,Australia,Australia,2020,226945.0,tersedia,Australia
+Oseania,negara,Australia / Australia,Australia,Australia,2021,,tidak_tersedia ('-' di sumber),Australia
+Oseania,negara,Australia / Australia,Australia,Australia,2022,605955.0,tersedia,Australia
+Oseania,negara,Australia / Australia,Australia,Australia,2023,1324410.0,tersedia,Australia
+Oseania,negara,Australia / Australia,Australia,Australia,2024,1544141.0,tersedia,Australia
+Oseania,negara,Selandia Baru / New Zealand,Selandia Baru,New Zealand,2019,132566.0,tersedia,Selandia Baru
+Oseania,negara,Selandia Baru / New Zealand,Selandia Baru,New Zealand,2020,16961.0,tersedia,Selandia Baru
+Oseania,negara,Selandia Baru / New Zealand,Selandia Baru,New Zealand,2021,,tidak_tersedia ('-' di sumber),Selandia Baru
+Oseania,negara,Selandia Baru / New Zealand,Selandia Baru,New Zealand,2022,38829.0,tersedia,Selandia Baru
+Oseania,negara,Selandia Baru / New Zealand,Selandia Baru,New Zealand,2023,105098.0,tersedia,Selandia Baru
+Oseania,negara,Selandia Baru / New Zealand,Selandia Baru,New Zealand,2024,145562.0,tersedia,Selandia Baru
+Oseania,negara,Oseania Lainnya / Other Oceania,Oseania Lainnya,Other Oceania,2019,1705.0,tersedia,Oseania lainnya
+Oseania,negara,Oseania Lainnya / Other Oceania,Oseania Lainnya,Other Oceania,2020,321.0,tersedia,Oseania lainnya
+Oseania,negara,Oseania Lainnya / Other Oceania,Oseania Lainnya,Other Oceania,2021,,tidak_tersedia ('-' di sumber),Oseania lainnya
+Oseania,negara,Oseania Lainnya / Other Oceania,Oseania Lainnya,Other Oceania,2022,341.0,tersedia,Oseania lainnya
+Oseania,negara,Oseania Lainnya / Other Oceania,Oseania Lainnya,Other Oceania,2023,1244.0,tersedia,Oseania lainnya
+Oseania,negara,Oseania Lainnya / Other Oceania,Oseania Lainnya,Other Oceania,2024,1648.0,tersedia,Oseania lainnya
+Afrika,subtotal_benua,AFRIKA,AFRIKA,AFRIKA,2019,68799.0,tersedia,AFRIKA
+Afrika,subtotal_benua,AFRIKA,AFRIKA,AFRIKA,2020,10758.0,tersedia,AFRIKA
+Afrika,subtotal_benua,AFRIKA,AFRIKA,AFRIKA,2021,,tidak_tersedia ('-' di sumber),AFRIKA
+Afrika,subtotal_benua,AFRIKA,AFRIKA,AFRIKA,2022,17467.0,tersedia,AFRIKA
+Afrika,subtotal_benua,AFRIKA,AFRIKA,AFRIKA,2023,52263.0,tersedia,AFRIKA
+Afrika,subtotal_benua,AFRIKA,AFRIKA,AFRIKA,2024,67061.0,tersedia,AFRIKA
+Afrika,negara,Afrika Selatan / South Africa,Afrika Selatan,South Africa,2019,39772.0,tersedia,Afrika Selatan
+Afrika,negara,Afrika Selatan / South Africa,Afrika Selatan,South Africa,2020,5803.0,tersedia,Afrika Selatan
+Afrika,negara,Afrika Selatan / South Africa,Afrika Selatan,South Africa,2021,,tidak_tersedia ('-' di sumber),Afrika Selatan
+Afrika,negara,Afrika Selatan / South Africa,Afrika Selatan,South Africa,2022,9656.0,tersedia,Afrika Selatan
+Afrika,negara,Afrika Selatan / South Africa,Afrika Selatan,South Africa,2023,26958.0,tersedia,Afrika Selatan
+Afrika,negara,Afrika Selatan / South Africa,Afrika Selatan,South Africa,2024,28122.0,tersedia,Afrika Selatan
+Afrika,negara,Afrika Lainnya / Other Africa,Afrika Lainnya,Other Africa,2019,29027.0,tersedia,Afrika lainnya
+Afrika,negara,Afrika Lainnya / Other Africa,Afrika Lainnya,Other Africa,2020,4955.0,tersedia,Afrika lainnya
+Afrika,negara,Afrika Lainnya / Other Africa,Afrika Lainnya,Other Africa,2021,,tidak_tersedia ('-' di sumber),Afrika lainnya
+Afrika,negara,Afrika Lainnya / Other Africa,Afrika Lainnya,Other Africa,2022,7811.0,tersedia,Afrika lainnya
+Afrika,negara,Afrika Lainnya / Other Africa,Afrika Lainnya,Other Africa,2023,25305.0,tersedia,Afrika lainnya
+Afrika,negara,Afrika Lainnya / Other Africa,Afrika Lainnya,Other Africa,2024,38939.0,tersedia,Afrika lainnya
+Crew,subtotal_benua,CREW,CREW,CREW,2019,,tidak_tersedia ('-' di sumber),CREW
+Crew,subtotal_benua,CREW,CREW,CREW,2020,,tidak_tersedia ('-' di sumber),CREW
+Crew,subtotal_benua,CREW,CREW,CREW,2021,,tidak_tersedia ('-' di sumber),CREW
+Crew,subtotal_benua,CREW,CREW,CREW,2022,,tidak_tersedia ('-' di sumber),CREW
+Crew,subtotal_benua,CREW,CREW,CREW,2023,,tidak_tersedia ('-' di sumber),CREW
+Crew,subtotal_benua,CREW,CREW,CREW,2024,,tidak_tersedia ('-' di sumber),CREW
+Total,total,Jumlah / Total,Jumlah,Total,2019,6275210.0,tersedia,Jumlah
+Total,total,Jumlah / Total,Jumlah,Total,2020,1069473.0,tersedia,Jumlah
+Total,total,Jumlah / Total,Jumlah,Total,2021,51.0,tersedia,Jumlah
+Total,total,Jumlah / Total,Jumlah,Total,2022,2155747.0,tersedia,Jumlah
+Total,total,Jumlah / Total,Jumlah,Total,2023,5273258.0,tersedia,Jumlah
+Total,total,Jumlah / Total,Jumlah,Total,2024,6333360.0,tersedia,Jumlah

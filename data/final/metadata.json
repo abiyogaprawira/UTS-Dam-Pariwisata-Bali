@@ -1,0 +1,135 @@
+{
+  "projek": "Bali Tourism Data Integration & Analytics",
+  "mahasiswa": {
+    "nama": "I Made Bagus Abiyoga Prawira",
+    "nim": "2501010089"
+  },
+  "dibuat_pada": "2026-11-17T10:37:07",
+  "lingkungan": {
+    "python": "3.13.18",
+    "pandas": "2.2.3",
+    "numpy": "2.4.6",
+    "colab": true
+  },
+  "user_agent": "UTS-DataAcquisition-Bali/1.0 (+mailto:mahasiswa@instiki.ac.id; keperluan akademik)",
+  "api": {
+    "endpoint": "https://archive-api.open-meteo.com/v1/archive",
+    "lokasi": {
+      "lat": -8.65,
+      "lon": 115.2167,
+      "nama": "Denpasar, Bali"
+    },
+    "variabel": [
+      "temperature_2m_max",
+      "temperature_2m_min",
+      "precipitation_sum",
+      "rain_sum",
+      "wind_speed_10m_max",
+      "weather_code"
+    ],
+    "periode_diminta": [
+      "2026-01-01",
+      "2026-11-12"
+    ],
+    "jumlah_baris": 316
+  },
+  "scraping": {
+    "url": "https://www.indonesia.travel/id/id/destination/bali-nusa-tenggara/bali",
+    "robots_boleh": true,
+    "robots_alasan": "robots.txt mengizinkan URL target untuk User-Agent kita",
+    "jumlah_destinasi": 33
+  },
+  "tabel": {
+    "wisatawan_historis": {
+      "baris": 57,
+      "kolom": 10,
+      "sel_nan": 9
+    },
+    "pintu_masuk": {
+      "baris": 36,
+      "kolom": 6,
+      "sel_nan": 9
+    },
+    "kebangsaan": {
+      "baris": 198,
+      "kolom": 9,
+      "sel_nan": 38
+    },
+    "lama_menginap": {
+      "baris": 72,
+      "kolom": 6,
+      "sel_nan": 18
+    },
+    "objek_wisata": {
+      "baris": 5220,
+      "kolom": 9,
+      "sel_nan": 1689
+    },
+    "weather_daily": {
+      "baris": 316,
+      "kolom": 8,
+      "sel_nan": 0
+    },
+    "weather_monthly": {
+      "baris": 11,
+      "kolom": 11,
+      "sel_nan": 0
+    },
+    "destinasi_scraped": {
+      "baris": 33,
+      "kolom": 8,
+      "sel_nan": 33
+    }
+  },
+  "integrasi": {
+    "A_objek_wisata_scraping": {
+      "kunci": "kunci_gabung (nama objek ternormalisasi)",
+      "validate": "many_to_one",
+      "baris_kiri": 5220,
+      "baris_hasil": 5220,
+      "kolom_hasil": 16,
+      "duplikat_kanan": 0,
+      "merge_indicator": {
+        "left_only": 5220
+      },
+      "objek_unik": 289,
+      "objek_cocok": 0
+    },
+    "B_pintu_masuk_cuaca": {
+      "kunci": [
+        "tahun",
+        "bulan_num"
+      ],
+      "validate": "many_to_one",
+      "baris_kiri": 36,
+      "baris_hasil": 36,
+      "kolom_hasil": 17,
+      "duplikat_kanan": 0,
+      "merge_indicator": {
+        "both": 33,
+        "left_only": 3
+      }
+    }
+  },
+  "asumsi_dan_keterbatasan": [
+    "Nilai '-' pada sumber diperlakukan sebagai NaN (bukan nol).",
+    "Kolom 2016-2017 pada D5 tidak dipisah wisnus/wisman; diberi kategori 'total_gabungan' (diasumsikan jumlah keduanya).",
+    "D4 tidak memisahkan tamu asing dan domestik.",
+    "Kategori destinasi hasil scraping diturunkan dari kata kunci (inferensi), bukan dari situs.",
+    "Cuaca hanya satu titik (Denpasar); analisis cuaca-kunjungan eksploratif, bukan kausal.",
+    "Lisensi sumber yang belum diisi tercatat 'Belum terverifikasi'."
+  ],
+  "status_proses": {
+    "Penyimpanan raw (5 dataset + MD5)": "berhasil",
+    "Identifikasi 5 dataset": "berhasil",
+    "Estimasi storage": "berhasil",
+    "Data ethics checklist (awal)": "berhasil",
+    "API Open-Meteo": "berhasil",
+    "Web scraping": "berhasil (33 destinasi)",
+    "Cleaning & normalisasi (5 dataset)": "berhasil",
+    "Integrasi A (objek wisata + scraping)": "berhasil; objek cocok 0/289",
+    "Integrasi B (pintu masuk + cuaca)": "berhasil",
+    "Validasi merge (A & B)": "berhasil (assert lolos)",
+    "Data ethics checklist (final)": "berhasil"
+  }
+}

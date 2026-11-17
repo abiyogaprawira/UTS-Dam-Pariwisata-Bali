@@ -1,0 +1,37 @@
+pintu_masuk,tahun,bulan_num,bulan,jumlah_wisman,status_data
+Bandara Ngurah Rai,2026,1,Januari,500121.0,tersedia
+Bandara Ngurah Rai,2026,2,Februari,486053.0,tersedia
+Bandara Ngurah Rai,2026,3,Maret,465260.0,tersedia
+Bandara Ngurah Rai,2026,4,April,552961.0,tersedia
+Bandara Ngurah Rai,2026,5,Mei,578203.0,tersedia
+Bandara Ngurah Rai,2026,6,Juni,604962.0,tersedia
+Bandara Ngurah Rai,2026,7,Juli,697800.0,tersedia
+Bandara Ngurah Rai,2026,8,Agustus,685956.0,tersedia
+Bandara Ngurah Rai,2026,9,September,650134.0,tersedia
+Bandara Ngurah Rai,2026,10,Oktober,,belum_tersedia ('-' di sumber)
+Bandara Ngurah Rai,2026,11,November,,belum_tersedia ('-' di sumber)
+Bandara Ngurah Rai,2026,12,Desember,,belum_tersedia ('-' di sumber)
+Pelabuhan Laut,2026,1,Januari,2084.0,tersedia
+Pelabuhan Laut,2026,2,Februari,6236.0,tersedia
+Pelabuhan Laut,2026,3,Maret,6810.0,tersedia
+Pelabuhan Laut,2026,4,April,367.0,tersedia
+Pelabuhan Laut,2026,5,Mei,48.0,tersedia
+Pelabuhan Laut,2026,6,Juni,51.0,tersedia
+Pelabuhan Laut,2026,7,Juli,9.0,tersedia
+Pelabuhan Laut,2026,8,Agustus,38.0,tersedia
+Pelabuhan Laut,2026,9,September,35.0,tersedia
+Pelabuhan Laut,2026,10,Oktober,,belum_tersedia ('-' di sumber)
+Pelabuhan Laut,2026,11,November,,belum_tersedia ('-' di sumber)
+Pelabuhan Laut,2026,12,Desember,,belum_tersedia ('-' di sumber)
+Jumlah,2026,1,Januari,502205.0,tersedia
+Jumlah,2026,2,Februari,492289.0,tersedia
+Jumlah,2026,3,Maret,472070.0,tersedia
+Jumlah,2026,4,April,553328.0,tersedia
+Jumlah,2026,5,Mei,578251.0,tersedia
+Jumlah,2026,6,Juni,605013.0,tersedia
+Jumlah,2026,7,Juli,697809.0,tersedia
+Jumlah,2026,8,Agustus,685994.0,tersedia
+Jumlah,2026,9,September,650169.0,tersedia
+Jumlah,2026,10,Oktober,,belum_tersedia ('-' di sumber)
+Jumlah,2026,11,November,,belum_tersedia ('-' di sumber)
+Jumlah,2026,12,Desember,,belum_tersedia ('-' di sumber)
