@@ -1,4 +1,4 @@
-# README — UTS Dam pariwisata Bali
+# README — UTS Dam Pariwisata Bali
 
 ## 1. Identitas Proyek
 
