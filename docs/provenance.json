@@ -1,0 +1,178 @@
+[
+  {
+    "nama_sumber": "wisman_pintu_masuk_bulanan_2026.csv",
+    "url": "https://bali.bps.go.id/id/statistics-table?subject=561",
+    "waktu_akses_utc": "2026-11-19 07:49:51 UTC",
+    "lisensi": "Needs verification (BPS: cek ketentuan penggunaan data di situs BPS)",
+    "metode_akuisisi": "download manual",
+    "file_lokal": "data/raw/wisman_pintu_masuk_bulanan_2026.csv",
+    "ukuran_bytes": 462,
+    "md5": "2aef9e8b657603ba358b9d8bfb120410",
+    "catatan": "Jumlah Wisatawan Mancanegara Bulanan ke Bali Menurut Pintu Masuk, 2026"
+  },
+  {
+    "nama_sumber": "lama_menginap_hotel_bintang_2026.csv",
+    "url": "https://bali.bps.go.id/id/statistics-table?subject=561",
+    "waktu_akses_utc": "2026-11-19 07:49:51 UTC",
+    "lisensi": "Needs verification (BPS: cek ketentuan penggunaan data di situs BPS)",
+    "metode_akuisisi": "download manual",
+    "file_lokal": "data/raw/lama_menginap_hotel_bintang_2026.csv",
+    "ukuran_bytes": 654,
+    "md5": "18a8dabfca1d1058afbf370999a97aa9",
+    "catatan": "Rata-Rata Lama Menginap Tamu Asing dan Domestik pada Hotel Bintang Menurut Kelas dan Bulan, 2026"
+  },
+  {
+    "nama_sumber": "wisman_indonesia_bali_1969_2025.csv",
+    "url": "https://bali.bps.go.id/id/statistics-table?subject=561",
+    "waktu_akses_utc": "2026-11-19 07:49:51 UTC",
+    "lisensi": "Needs verification (BPS: cek ketentuan penggunaan data di situs BPS)",
+    "metode_akuisisi": "download manual",
+    "file_lokal": "data/raw/wisman_indonesia_bali_1969_2025.csv",
+    "ukuran_bytes": 3277,
+    "md5": "ab034ea9e86e16ae85766ee2b37f2af3",
+    "catatan": "Banyaknya Wisatawan Mancanegara ke Bali dan Indonesia, 1969-2025"
+  },
+  {
+    "nama_sumber": "bukti_openmeteo_lisensi.html",
+    "url": "https://open-meteo.com/en/license",
+    "waktu_akses_utc": "2026-11-19 07:51:32 UTC",
+    "lisensi": "n/a (halaman bukti pemeriksaan)",
+    "metode_akuisisi": "web (bukti kepatuhan)",
+    "file_lokal": "data/raw/bukti_kepatuhan/bukti_openmeteo_lisensi.html",
+    "ukuran_bytes": 100,
+    "md5": "24918127445438ddfa8ec3f8ad6ec73b",
+    "catatan": "Bukti pemeriksaan lisensi/ketentuan: openmeteo_lisensi"
+  },
+  {
+    "nama_sumber": "bukti_disparda_beranda.html",
+    "url": "https://disparda.baliprov.go.id/",
+    "waktu_akses_utc": "2026-11-19 07:51:35 UTC",
+    "lisensi": "n/a (halaman bukti pemeriksaan)",
+    "metode_akuisisi": "web (bukti kepatuhan)",
+    "file_lokal": "data/raw/bukti_kepatuhan/bukti_disparda_beranda.html",
+    "ukuran_bytes": 293610,
+    "md5": "541ba894c6e231f5059558726c295979",
+    "catatan": "Bukti pemeriksaan lisensi/ketentuan: disparda_beranda"
+  },
+  {
+    "nama_sumber": "openmeteo_denpasar_harian_2026.json",
+    "url": "https://archive-api.open-meteo.com/v1/archive?latitude=-8.65&longitude=115.22&start_date=2026-01-01&end_date=2026-09-30&daily=temperature_2m_mean,precipitation_sum,wind_speed_10m_max&timezone=Asia/Makassar",
+    "waktu_akses_utc": "2026-11-19 07:51:58 UTC",
+    "lisensi": "Open-Meteo: data CC BY 4.0 (verifikasi di open-meteo.com/en/license; API gratis untuk non-komersial)",
+    "metode_akuisisi": "api",
+    "file_lokal": "data/raw/openmeteo_denpasar_harian_2026.json",
+    "ukuran_bytes": 8063,
+    "md5": "55970963f6db97098dd69bccc36c60c3",
+    "catatan": "Cuaca harian historis Denpasar 2026-01-01 s/d 2026-09-30"
+  },
+  {
+    "nama_sumber": "robots_disparda.txt",
+    "url": "https://disparda.baliprov.go.id/robots.txt",
+    "waktu_akses_utc": "2026-11-19 07:52:11 UTC",
+    "lisensi": "n/a (bukti pemeriksaan)",
+    "metode_akuisisi": "web (bukti kepatuhan)",
+    "file_lokal": "data/raw/bukti_kepatuhan/robots_disparda.txt",
+    "ukuran_bytes": 24,
+    "md5": "b6216d61c03e6ce0c9aea6ca7808f7ca",
+    "catatan": "robots.txt Disparda Bali"
+  },
+  {
+    "nama_sumber": "disparda_dtw_badung_hal1.html",
+    "url": "https://disparda.baliprov.go.id/badung/",
+    "waktu_akses_utc": "2026-11-19 07:52:19 UTC",
+    "lisensi": "Needs verification - cek ToS situs Disparda Bali",
+    "metode_akuisisi": "scraping",
+    "file_lokal": "data/raw/disparda_dtw_badung_hal1.html",
+    "ukuran_bytes": 183104,
+    "md5": "3518aee2e48f42f67c4599efc2745220",
+    "catatan": "Listing daya tarik wisata (robots.txt diperiksa: docs/bukti_robots.csv)"
+  },
+  {
+    "nama_sumber": "disparda_dtw_buleleng_hal1.html",
+    "url": "https://disparda.baliprov.go.id/buleleng/",
+    "waktu_akses_utc": "2026-11-19 07:52:21 UTC",
+    "lisensi": "Needs verification - cek ToS situs Disparda Bali",
+    "metode_akuisisi": "scraping",
+    "file_lokal": "data/raw/disparda_dtw_buleleng_hal1.html",
+    "ukuran_bytes": 170676,
+    "md5": "702b1b4857d2c7f7b1ab0ec254458ac3",
+    "catatan": "Listing daya tarik wisata (robots.txt diperiksa: docs/bukti_robots.csv)"
+  },
+  {
+    "nama_sumber": "disparda_dtw_bangli_hal1.html",
+    "url": "https://disparda.baliprov.go.id/bangli/",
+    "waktu_akses_utc": "2026-11-19 07:52:24 UTC",
+    "lisensi": "Needs verification - cek ToS situs Disparda Bali",
+    "metode_akuisisi": "scraping",
+    "file_lokal": "data/raw/disparda_dtw_bangli_hal1.html",
+    "ukuran_bytes": 172171,
+    "md5": "7d6e07afab9375874fb9a4634902f0e5",
+    "catatan": "Listing daya tarik wisata (robots.txt diperiksa: docs/bukti_robots.csv)"
+  },
+  {
+    "nama_sumber": "disparda_dtw_denpasar_hal1.html",
+    "url": "https://disparda.baliprov.go.id/denpasar/",
+    "waktu_akses_utc": "2026-11-19 07:52:26 UTC",
+    "lisensi": "Needs verification - cek ToS situs Disparda Bali",
+    "metode_akuisisi": "scraping",
+    "file_lokal": "data/raw/disparda_dtw_denpasar_hal1.html",
+    "ukuran_bytes": 165805,
+    "md5": "b857e3a2dd78dd2b17d8a5d0cb49d087",
+    "catatan": "Listing daya tarik wisata (robots.txt diperiksa: docs/bukti_robots.csv)"
+  },
+  {
+    "nama_sumber": "disparda_dtw_gianyar_hal1.html",
+    "url": "https://disparda.baliprov.go.id/gianyar/",
+    "waktu_akses_utc": "2026-11-19 07:52:28 UTC",
+    "lisensi": "Needs verification - cek ToS situs Disparda Bali",
+    "metode_akuisisi": "scraping",
+    "file_lokal": "data/raw/disparda_dtw_gianyar_hal1.html",
+    "ukuran_bytes": 172112,
+    "md5": "c539156020a25f1ce45402d31085ca5b",
+    "catatan": "Listing daya tarik wisata (robots.txt diperiksa: docs/bukti_robots.csv)"
+  },
+  {
+    "nama_sumber": "disparda_dtw_jembrana_hal1.html",
+    "url": "https://disparda.baliprov.go.id/jembrana/",
+    "waktu_akses_utc": "2026-11-19 07:52:31 UTC",
+    "lisensi": "Needs verification - cek ToS situs Disparda Bali",
+    "metode_akuisisi": "scraping",
+    "file_lokal": "data/raw/disparda_dtw_jembrana_hal1.html",
+    "ukuran_bytes": 170616,
+    "md5": "b1392325bbc8330780629cd52f2ee716",
+    "catatan": "Listing daya tarik wisata (robots.txt diperiksa: docs/bukti_robots.csv)"
+  },
+  {
+    "nama_sumber": "disparda_dtw_karangasem_hal1.html",
+    "url": "https://disparda.baliprov.go.id/karangasem/",
+    "waktu_akses_utc": "2026-11-19 07:52:33 UTC",
+    "lisensi": "Needs verification - cek ToS situs Disparda Bali",
+    "metode_akuisisi": "scraping",
+    "file_lokal": "data/raw/disparda_dtw_karangasem_hal1.html",
+    "ukuran_bytes": 177218,
+    "md5": "34d857e3ffbbb0ac32c74b59a0b51464",
+    "catatan": "Listing daya tarik wisata (robots.txt diperiksa: docs/bukti_robots.csv)"
+  },
+  {
+    "nama_sumber": "disparda_dtw_klungkung_hal1.html",
+    "url": "https://disparda.baliprov.go.id/klungkung/",
+    "waktu_akses_utc": "2026-11-19 07:52:35 UTC",
+    "lisensi": "Needs verification - cek ToS situs Disparda Bali",
+    "metode_akuisisi": "scraping",
+    "file_lokal": "data/raw/disparda_dtw_klungkung_hal1.html",
+    "ukuran_bytes": 162556,
+    "md5": "5a8418c4366359171405ec0079de786a",
+    "catatan": "Listing daya tarik wisata (robots.txt diperiksa: docs/bukti_robots.csv)"
+  },
+  {
+    "nama_sumber": "disparda_dtw_tabanan_hal1.html",
+    "url": "https://disparda.baliprov.go.id/tabanan/",
+    "waktu_akses_utc": "2026-11-19 07:52:37 UTC",
+    "lisensi": "Needs verification - cek ToS situs Disparda Bali",
+    "metode_akuisisi": "scraping",
+    "file_lokal": "data/raw/disparda_dtw_tabanan_hal1.html",
+    "ukuran_bytes": 170748,
+    "md5": "65567baa46bdb5191db7b0078f4cbbc5",
+    "catatan": "Listing daya tarik wisata (robots.txt diperiksa: docs/bukti_robots.csv)"
+  }
+]

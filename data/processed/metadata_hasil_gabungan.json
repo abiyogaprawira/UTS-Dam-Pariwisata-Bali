@@ -1,0 +1,72 @@
+{
+  "dibuat_utc": "2026-11-19 09:56:53 UTC",
+  "pembuat": {
+    "nama": "I Made Bagus Abiyoga Prawira",
+    "nim": "2501010089"
+  },
+  "file_hasil": "bali_wisman_menginap_cuaca_2026.csv",
+  "jumlah_baris": 9,
+  "jumlah_kolom": 21,
+  "kolom": {
+    "tahun": "Tahun kalender",
+    "bulan": "Bulan (1-12)",
+    "nama_bulan": "Singkatan bulan",
+    "wisman_bandara": "Wisman via Bandara Ngurah Rai (kunjungan)",
+    "wisman_pelabuhan": "Wisman via Pelabuhan Laut (kunjungan)",
+    "wisman_total": "Jumlah wisman Bali (kunjungan) = bandara + pelabuhan",
+    "menginap_bintang_1..5, menginap_seluruh_kelas": "Rata-rata lama menginap tamu asing + domestik hotel bintang (malam)",
+    "suhu_rata2_c": "Rata-rata suhu harian 2 m (C), Denpasar",
+    "curah_hujan_total_mm": "Total curah hujan bulanan (mm)",
+    "hari_hujan": "Jumlah hari hujan >= 1 mm",
+    "angin_maks_kmh": "Angin maksimum harian 10 m (km/jam), maks. bulanan",
+    "hari_tercatat / hari_seharusnya": "Hari berdata cuaca / jumlah hari dalam bulan",
+    "pelabuhan_persen": "Pangsa Pelabuhan Laut (%) dari total",
+    "perubahan_mom_persen": "Perubahan total vs bulan sebelumnya (%)",
+    "indeks_terhadap_rata2": "Total bulan / rata-rata bulan terisi (periode Jan-Sep)"
+  },
+  "sumber": [
+    {
+      "berkas": "wisman_pintu_masuk_bulanan_2026.csv",
+      "judul": "Jumlah Wisatawan Mancanegara Bulanan ke Bali Menurut Pintu Masuk, 2026",
+      "url": "https://bali.bps.go.id/id/statistics-table?subject=561",
+      "sumber_asli": "BPS Provinsi Bali"
+    },
+    {
+      "berkas": "lama_menginap_hotel_bintang_2026.csv",
+      "judul": "Rata-Rata Lama Menginap Tamu Asing dan Domestik pada Hotel Bintang Menurut Kelas dan Bulan, 2026",
+      "url": "https://bali.bps.go.id/id/statistics-table?subject=561",
+      "sumber_asli": "BPS Provinsi Bali"
+    },
+    {
+      "berkas": "wisman_indonesia_bali_1969_2025.csv",
+      "judul": "Banyaknya Wisatawan Mancanegara ke Bali dan Indonesia, 1969-2025",
+      "url": "https://bali.bps.go.id/id/statistics-table?subject=561",
+      "sumber_asli": "BPS Provinsi Bali"
+    },
+    {
+      "berkas": "openmeteo_denpasar_harian_2026.json",
+      "url": "https://archive-api.open-meteo.com/v1/archive",
+      "parameter": {
+        "latitude": -8.65,
+        "longitude": 115.22,
+        "start_date": "2026-01-01",
+        "end_date": "2026-09-30",
+        "daily": "temperature_2m_mean,precipitation_sum,wind_speed_10m_max",
+        "timezone": "Asia/Makassar"
+      }
+    }
+  ],
+  "metode_merge": "pd.merge(how='left', on=['tahun','bulan'], validate='one_to_one') dua kali",
+  "bukti_merge": {
+    "baris_wisman": 9,
+    "baris_menginap": 9,
+    "baris_cuaca": 9,
+    "baris_hasil": 9,
+    "kunci_ganda": 0,
+    "tanpa_pasangan": 0,
+    "validate": "one_to_one"
+  },
+  "md5_hasil": "6533e663f020ff5a499a48077f6b5e39",
+  "lisensi_sumber": "Needs verification (lihat docs/provenance.json); Open-Meteo CC BY 4.0 (verifikasi)",
+  "catatan": "Analisis hanya asosiasi; n=9 bulan; cuaca satu titik (Denpasar); D2 mencakup tamu asing + domestik; Okt-Des 2026 belum tersedia."
+}

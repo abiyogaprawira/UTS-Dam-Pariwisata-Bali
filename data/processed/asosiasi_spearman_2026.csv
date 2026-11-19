@@ -1,0 +1,6 @@
+﻿y,x,n,rho,p_value
+wisman_total,menginap_seluruh_kelas,9,-0.067,0.8641
+wisman_total,suhu_rata2_c,9,-0.667,0.0499
+wisman_total,curah_hujan_total_mm,9,-0.85,0.0037
+wisman_total,hari_hujan,9,-0.833,0.0053
+wisman_total,angin_maks_kmh,9,-0.383,0.3085
