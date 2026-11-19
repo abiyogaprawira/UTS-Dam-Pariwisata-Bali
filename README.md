@@ -11,7 +11,6 @@
 | Jenis tugas | Ujian Tengah Semester (UTS) |
 | Tools utama | Google Colab, Python, Google Drive |
 | Wilayah kajian | Provinsi Bali; data historis pembanding juga mencakup Indonesia |
-| Periode data | Januari–September 2026 untuk data bulanan; 1969–2025 untuk tren tahunan |
 
 ## 2. Konsep Proyek
 
